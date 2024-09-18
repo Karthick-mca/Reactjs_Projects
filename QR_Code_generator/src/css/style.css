@@ -1,0 +1,27 @@
+.head{
+    color:burlywood
+}
+.body{
+    color:blue
+}
+.defaultclr{
+    color:chartreuse
+}
+.clrerror{
+    color:darkgreen
+}
+.stud table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.stud table td,
+.stud table th{
+text-align: left;
+border: 1px solid black;
+padding: 5px 10px;
+}
+.stud table th{
+    width:100px;
+}
